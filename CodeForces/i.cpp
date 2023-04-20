@@ -13,7 +13,7 @@ int main()
         cin>>penScore[i];
 
     }
-    int x =10;labs
+    int x =10;
     int qofM;
     cin>>qofM;
 
